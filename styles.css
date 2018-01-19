@@ -7,10 +7,11 @@ h1 {
 .friend {
     background-color: paleturquoise;
 }
-p {
+h3 {
     text-transform: uppercase;
 }
 #button {
-    width: 8em;
-    height: 5em;
+    background-color: lightcoral;
+    font-size: 2em;
+    padding: 0.5em 1em;
 }
