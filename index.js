@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function(event) {
     console.log('DOM loaded');
 
-
+//comments are for my refermece at a later time
 let friends = ['Kenna', 'Cody', 'Lydia', 'Jean', 'Laura'];
 
 document.getElementById('button').addEventListener('click', function () {
